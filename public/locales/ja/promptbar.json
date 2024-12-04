@@ -1,0 +1,12 @@
+{
+  "New template": "新しいプロンプト",
+  "New folder": "新しいフォルダ",
+  "No templates.": "プロンプトはありません",
+  "Search templates...": "プロンプトの検索...",
+  "Name": "名前",
+  "Description": "説明",
+  "A description for your template.": "プロンプトの説明",
+  "Prompt": "プロンプト",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "プロンプトの内容。変数を表すには {{}} を使ってください。 例: {{name}} is a {{adjective}} {{noun}}",
+  "Save": "保存"
+}

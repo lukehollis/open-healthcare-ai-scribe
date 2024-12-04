@@ -1,0 +1,12 @@
+{
+  "New template": "Nowy prompt",
+  "New folder": "Nowy folder",
+  "No templates.": "Brak promptów.",
+  "Search templates...": "Szukaj promptów...",
+  "Name": "Nazwa",
+  "Description": "Opis",
+  "A description for your template.": "Opis Twojego prompta.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Zawartość prompta. Użyj {{}} żeby oznaczyć zmienną. Np.: {{nazwa}} jest {{przymiotnik}} {{rzeczownik}}",
+  "Save": "Zapisz"
+}

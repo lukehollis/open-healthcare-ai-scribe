@@ -1,0 +1,12 @@
+{
+  "New template": "Prompt mới",
+  "New folder": "Thư mục mới",
+  "No templates.": "Không có Prompt nào.",
+  "Search templates...": "Tìm kiếm các Prompt...",
+  "Name": "Tên",
+  "Description": "Mô tả",
+  "A description for your template.": "Một mô tả cho Prompt của bạn.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Nội dung Prompt. Sử dụng {{}} để biểu thị một biến. Ví dụ: {{name}} là một {{adjective}} {{noun}}",
+  "Save": "Lưu"
+}

@@ -1,0 +1,12 @@
+{
+  "New template": "פקודת מכונה חדשה",
+  "New folder": "תיקיה חדשה",
+  "No templates.": "לא נמצאו פקודות מכונות",
+  "Search templates...": "חיפוש פקודות...",
+  "Name": "שם",
+  "Description": "תיאור",
+  "A description for your template.": "תיאור שורת הפקודה למכונה",
+  "Prompt": "פקודה",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "תיאור הפקודה. השתמש {{}} להגדרת משתנים. לדוגמא {{שם משתנה}} הוא {{תואר}} {{שם עצם}}",
+  "Save": "Save"
+}

@@ -1,0 +1,12 @@
+{
+  "New template": "Noua solicitare",
+  "New folder": "Dosar nou",
+  "No templates.": "Fără solicitări.",
+  "Search templates...": "Cereri de căutare...",
+  "Name": "Nume",
+  "Description": "Descriere",
+  "A description for your template.": "Descrierea solicitării prompt.",
+  "Prompt": "Îndemnuri",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Conținut prompt. Utilizați {{}} pentru a indica o variabilă. De exemplu: {{nume}} este un {{adjectiv}} {{substantiv}}",
+  "Save": "Salvați"
+}

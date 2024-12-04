@@ -1,0 +1,12 @@
+{
+  "New template": "নতুন prompt",
+  "New folder": "নতুন ফোল্ডার",
+  "No templates.": "কোনো prompts নেই।",
+  "Search templates...": "prompts অনুসন্ধান হচ্ছে...",
+  "Name": "নাম",
+  "Description": "বর্ণনা",
+  "A description for your template.": "আপনার Prompt জন্য একটি বিবরণ লিখুন.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}",
+  "Save": "সংরক্ষণ করুন"
+}

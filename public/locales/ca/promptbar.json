@@ -1,0 +1,12 @@
+{
+  "New template": "Nou prompt",
+  "New folder": "Nova carpeta",
+  "No templates.": "No hi ha prompts.",
+  "Search templates...": "Cerca prompts...",
+  "Name": "Nom",
+  "Description": "Descripció",
+  "A description for your template.": "Descripció del teu prompt.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Contingut del missatge. Utilitza {{}} per indicar una variable. Ex: {{nom}} és un {{adjectiu}} {{substantiu}}",
+  "Save": "Guardar"
+}

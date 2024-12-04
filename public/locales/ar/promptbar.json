@@ -1,0 +1,12 @@
+{
+  "New template": "مطلب جديد",
+  "New folder": "مجلد جديد",
+  "No templates.": "لا يوجد مطالبات.",
+  "Search templates...": "...البحث عن مطالبات",
+  "Name": "الاسم",
+  "Description": "الوصف",
+  "A description for your template.": "وصف لمطلبك",
+  "Prompt": "مطلب",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "محتوى المطلب. استخدم {{}} للإشارة إلى متغير. مثال: {{الاسم}} هي {{صفة}} {{اسم}}",
+  "Save": "حفظ"
+}

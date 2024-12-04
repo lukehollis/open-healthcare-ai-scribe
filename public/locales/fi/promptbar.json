@@ -1,0 +1,12 @@
+{
+  "New template": "Uusi prompt",
+  "New folder": "Uusi kansio",
+  "No templates.": "Ei prompteja.",
+  "Search templates...": "Hae prompteista...",
+  "Name": "Nimi",
+  "Description": "Kuvaus",
+  "A description for your template.": "Promptisi kuvaus.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Promptin sisältö. Käytä {{}} muuttujien merkitsemiseen. Esim: {{nimi}} on {{adjektiivi}} {{substantiivi}}",
+  "Save": "Tallenna"
+}

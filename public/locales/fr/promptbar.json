@@ -1,0 +1,12 @@
+{
+  "New template": "New template",
+  "New folder": "New folder",
+  "No templates.": "No templates.",
+  "Search templates...": "Search templates...",
+  "Name": "Name",
+  "Description": "Description",
+  "A description for your template.": "A description for your template.",
+  "Prompt": "Prompt",
+  "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "Template content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}",
+  "Save": "Save"
+}
